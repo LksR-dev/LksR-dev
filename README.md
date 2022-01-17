@@ -5,7 +5,7 @@
 Actualmente me encuentro cursando la carrera de desarrollo web fullstack en apx. Estoy abierto a propuestas laborales y colaboraciones.
 
 [![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=LksR-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LksR-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LksR-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
