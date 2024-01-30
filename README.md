@@ -2,7 +2,7 @@
 
 ### In love to software developing
 
-I'm fullstack web developer (backend focused). I'm student in [apx](apx.school) and I'm Técnico Universitario en Programación in Universidad Tecnológica Nacional - San Rafael, Mendoza. Here, you will find all my works and my contact media.
+I'm fullstack web developer (backend focused). I'm mentor in [apx](apx.school) and I'm Técnico Universitario en Programación in Universidad Tecnológica Nacional - San Rafael, Mendoza. Here, you will find all my works and my contact media.
 
 [![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=LksR-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LksR-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
