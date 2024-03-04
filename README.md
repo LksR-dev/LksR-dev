@@ -8,6 +8,7 @@ I'm fullstack web developer (backend focused). I'm mentor in [apx](apx.school) a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LksR-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me **lucasmruiz05@gmail.com**
+- [Portfolio](https://lucasdev-portfolio.netlify.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
